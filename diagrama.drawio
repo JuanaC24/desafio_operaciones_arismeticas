@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="tPAMNJBOnj-LUZKv-v6R" name="Página-1">
+        <mxGraphModel dx="863" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="10" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="180" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="a,b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;suma &lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/span&gt;= &lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;a&amp;nbsp; + b&lt;/li&gt;&lt;li&gt;resta &lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;/span&gt;=&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;a - b&lt;/li&gt;&lt;li&gt;multiplicacion&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;=&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;a * b&lt;/li&gt;&lt;li&gt;división&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;=&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;a / b&lt;/li&gt;&lt;li&gt;modulo&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;=&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;a % b&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="220" width="200" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;ul&gt;&lt;li&gt;mostrar suma&amp;nbsp;&lt;/li&gt;&lt;li&gt;mostrar resta&amp;nbsp;&lt;/li&gt;&lt;li&gt;mostar multiplicacion&amp;nbsp;&lt;/li&gt;&lt;li&gt;mostrar division&lt;/li&gt;&lt;li&gt;mostrar módulo&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="350" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="480" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
